@@ -2,6 +2,8 @@
 '''
 INFO = There is no copy/paste information into this file.
 
+If command lines are bad for code readability, please delete and check again.
+
 Author:       Ahmet Gungor
 Date  :       17.10.2019
 Description : This code is written to understand Encapsulation concept in Python.
@@ -59,14 +61,14 @@ if __name__ == "__main__":
     
     calc = Calculation()
     # Output => Welcome to the Calculation class
+    # Into constructor method __welcome() function is called.
+    # The function is worked because it is called into its own class.
     
     print(calc.value)
     # Output => 5
     
-    # Define "value" of  calc instance is as 10
     calc.value = 10
     
-    # Print "value" of  calc instance
     print(calc.value)
     # Output => 10
     
