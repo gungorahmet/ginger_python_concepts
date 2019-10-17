@@ -23,7 +23,8 @@ For example;
     Laptop has 5% tax amount and mobile has 8% tax amount.
     After these tax amount, they also have a common 3% tax amount.
 
-    So we can group their commons together such as 3% and seperate their individual tax prices into sub-classes/functions()
+        So we can group their commons together such as 3% and seperate their individual 
+    tax prices into sub-classes/functions()
 
 Let's check into the code.
 
