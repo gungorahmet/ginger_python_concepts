@@ -1,39 +1,10 @@
 #!/usr/bin/python3
-'''
-INFO = There is no copy/paste information into this file.
-
-If command lines are bad for code readability, please delete and check again.
-
-Author:       Ahmet Gungor
-Date  :       17.10.2019
-Description : This code is written to understand Encapsulation concept in Python.
-
-What is encapsulation in a nutshell?
-
-   In Object Oriented Programming, sometimes we need to put some restrictions.
-We may have some variable that we don't want to change its value but there is 
-possibility that we can change into the code by mistake.
-
-With using Encapsulation, we can prevent this risk.
-
-Usage:
-
-    To have a 'private' variable or a function, we need to use double 
-underscores (__) such as "__pi_number" or "__welcome()".
-
-Conclusion: Thus, we can only use these variable or functions into the class.
-
-    IMPORTANT HINT = Actually we can reach private variables or functions 
-from out of class with;
-    
-    {instance}._{CLASSNAME}{VARIABLENAME or FUNCTION NAME}
-
-    But the point of encapsulation, preventing mistakes. So you already would
-not run a command like that.
-
-
-I will try to explain with a simple code block below.
-'''
+#
+#INFO = There is no copy/paste information into this file.
+#
+#Author:       Ahmet Gungor
+#Date  :       17.10.2019
+#Description : This code is written to understand Encapsulation concept in Python.
 
 class Calculation:
 
