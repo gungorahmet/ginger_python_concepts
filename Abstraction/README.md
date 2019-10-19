@@ -4,9 +4,7 @@
 
 What is abstraction in a nutshell?
 
-    Anywhere on the internet, you can find many explanation about abstraction.
-    
-I will explain here what it is for me with the simplest explanation;
+    Anywhere on the internet, you can find many explanation about abstraction. But I will explain in heremy understanding with the simplest explanation;
 
     1.) Group things which are similar.
     2.) Grab same functionality together.
